@@ -13,7 +13,7 @@ data pipeline from json files to PostgreSQL
 
 ## Insert JSON files into PostgreSQL table
 
-Full Code in main.py files. Below is explanation per chang in Jupyter Notebook from the main.py code to insert the json field into PostgreSQL tables (complex,tower,unit)
+Full Code in main.py files. Below is explanation per chang in Jupyter Notebook from the [main.py](https://github.com/jodiesamuel/test_spacestock/blob/master/question1/main.py) code to insert the json field into PostgreSQL tables (complex,tower,unit)
 
 ### Insert JSON complex.json into complex table on PostgreSQL table
 
