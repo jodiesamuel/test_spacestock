@@ -1,6 +1,6 @@
 # Question 1
 
-data pipeline from json files to PostgreSQL
+Data pipeline from json files to PostgreSQL using python
 
 ## Dependecies
 
