@@ -58,9 +58,9 @@ with score as (
 
 ![alt text](https://github.com/jodiesamuel/test_spacestock/blob/master/pictures/count_images.png)
 
-after that count the score based on how much the completeness of the images data. examples query based on metric from the question
-
+after that count the score based on how much the completeness of the images data. 
 ![alt text](https://github.com/jodiesamuel/test_spacestock/blob/master/pictures/metric.png)
+examples query based on metric from the question
 
 ```
 case 
